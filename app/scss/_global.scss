@@ -1,0 +1,13 @@
+body{
+  @extend %heebo-400;
+  font-size: 16px;
+  line-height: 23px;
+  background-color: #020307;
+  color: #fff;
+}
+
+.container{
+  max-width: 870px;
+  margin: 0 auto;
+  padding: 0 20px;
+}

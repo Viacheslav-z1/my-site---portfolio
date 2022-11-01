@@ -1,0 +1,27 @@
+@font-face {
+  font-family: 'Heebo-Bold';
+  src: local('Heebo-Bold');
+  src: url('../fonts/Heebo-Bold.woff2') format('woff2'),
+    url('../fonts/Heebo-Bold.woff') format('woff');
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Heebo-Medium';
+  src: local('Heebo-Medium');
+  src: url('../fonts/Heebo-Medium.woff2') format('woff2'),
+    url('../fonts/Heebo-Medium.woff') format('woff');
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Heebo-Regular';
+  src: local('Heebo-Regular');
+  src: url('../fonts/Heebo-Regular.woff2') format('woff2'),
+    url('../fonts/Heebo-Regular.woff') format('woff');
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
